@@ -1,0 +1,9 @@
+browserstack.user=
+browserstack.key=
+browser=chrome
+browser_version=91.0
+os=Windows
+os.version=10
+browserstack.build=github
+browserstack.name=tests
+url=https://hub-cloud.browserstack.com/wd/hub

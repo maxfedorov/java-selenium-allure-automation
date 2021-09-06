@@ -1,0 +1,6 @@
+browser.name=chrome
+browser.version=91.0
+enable.vnc=true
+enable.video=true
+url=https://selenoid.company.com:4444/wd/hub
+video.url=https://selenoid.company.com/video/
